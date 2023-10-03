@@ -1,0 +1,24 @@
+#' @title Dataset about volcanic eruptions
+#'
+#' A dataset that contains the the different types of volcanic eruption according to their eruption category
+#'
+#' @format A data frame with 11178 rows and 15 variables.
+#' \describe{
+#'   \item{volcano_number}{Volcano unique ID}
+#'   \item{volcano_name}{Volcano Name}
+#'   \item{eruption_number}{Eruption Number}
+#'   \item{eruption_category}{Type of eruption}
+#'   \item{area_of_activity}{Area of activity}
+#'   \item{vei}{Volcano explosivity Index}
+#'   \item{start_year}{Volcano Start Year}
+#'   \item{start_month}{Volcano Start Month}
+#'   \item{start_day}{Volcano Start Day}
+#'   \item{evidence_method_dating}{Evidence for dating volcano eruption}
+#'   \item{end_year}{Volcano End Year}
+#'   \item{end_month}{Volcano End Month}
+#'   \item{end_day}{Volcano End Day}
+#'   \item{latitude}{Latitude}
+#'   \item{longitude}{Longitude}
+#' }
+#' @source \url{https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-05-12/eruptions.csv}
+"eruption_counts"
