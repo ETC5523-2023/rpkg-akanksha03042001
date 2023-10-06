@@ -1,0 +1,47 @@
+.about {
+  background-color: #e3e3e3;
+  border: 1px dashed grey;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.row {
+  padding: 2px;
+}
+
+.panel1 {
+  background-color: #FFFED1;
+  border: 2px solid #FFEEBE;
+  padding: 5px;
+}
+
+.panel2 {
+  background-color: #FFFED1;
+  border: 2px solid #FFEEBE;
+  padding: 5px;
+}
+
+.panel3 {
+  background-color: #FFFED1;
+  border: 2px solid #FFEEBE;
+  padding: 5px;
+}
+
+
+h3 {
+  color: #800000;
+  font-size: 1.0em;
+  font-family: Comic Sans MS;
+}
+
+h5 {
+  color: #800000;
+  font-weight: bold;
+  font-size: 1.0em;
+  font-family: Comic Sans MS;
+}
+details > summary:first-of-type {
+    display: list-item;
+    counter-increment: list-item 0;
+    list-style: inside disclosure-closed;
+}

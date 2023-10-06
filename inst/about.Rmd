@@ -1,0 +1,29 @@
+
+#### Data
+
+The volcano data used in this assignment provides us information of various types of volcanoes, their behaviour around the world. This information enables us to comprehend the geographic distribution, characteristics, and geological circumstances. 
+
+We have also used the eruption dataset which was available as we could analyse the various volcanic eruptions, containing volcano number, types of eruptions, beginning and ending years, and linked volcanoes. This information helps us to understand the volcanic activity patterns and possible dangers, thus allowing us to analyse the frequency, duration, and effect of volcanic eruptions.
+
+The dataset could be found at [The Smithsonian Institution](https://volcano.si.edu/).
+
+#### Purpose
+
+The purpose of the app is to:
+
+1. Show the distibution of various types of volcanoes.
+2. Count the presence of them worldwide and the effect on nature.
+3. The datasets help assess the impact of volcanic eruptions on nearby regions.
+4. Learn more about the formation and evolution of volcanoes.
+5. Interactively estimate the different parameters used in the application for different panels. 
+
+#### Creator
+
+Akanksha Shridharani (ashr0017@student.monash.edu)
+
+<details>
+<summary>Session information</summary>
+```{r, echo = FALSE}
+sessioninfo::session_info()
+```
+</details>
