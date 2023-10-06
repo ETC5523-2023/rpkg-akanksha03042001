@@ -42,8 +42,8 @@ A data frame with 70 rows and 26 variables.
 volcano_height
 }
 \description{
-"A dataset containing data on various types of volcanoes around the world,
-including elevation." The dataset has been subset to the top 70 observations,
+A dataset containing data on various types of volcanoes around the world,
+including elevation. The dataset has been subset to the top 70 observations,
 which are ordered by elevation in descending order.
 This enables us to study the interesting world of volcanoes and to understand their dual nature
 as natural forces of destruction as well as geological marvels.

@@ -3,7 +3,7 @@ Title: Exploring Earth’s Fiery Giants
 Version: 0.0.0.9000
 Authors@R: 
     person("Akanksha", "Shridharani", , "ashr0017@student.monash.edu", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: The package helps us to analyse and comprehend volcanic explosivity trends for different types of volcanoes worldwide. 
 License: MIT + file LICENSE
 Encoding: UTF-8
 Language: es
