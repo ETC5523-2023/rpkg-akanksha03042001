@@ -38,11 +38,6 @@ This command is used to load the package library -
 
 ``` r
 library(eruptR)
-#> 
-#> Attaching package: 'eruptR'
-#> The following object is masked from 'package:datasets':
-#> 
-#>     volcano
 ```
 
 ## Example

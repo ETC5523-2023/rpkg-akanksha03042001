@@ -39,7 +39,7 @@ devtools::install_github("ETC5523-2023/rpkg-akanksha03042001")
 
 This command is used to load the package library -
 
-```{r}
+```{r, warning=FALSE, message=FALSE}
 library(eruptR)
 ```
 
