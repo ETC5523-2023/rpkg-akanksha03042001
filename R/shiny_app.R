@@ -3,6 +3,6 @@
 #' for the eruptR package.
 #' @export
 run_app <- function() {
-  app_dir <- system.file("shiny-akanksha03042001", package = "eruptR")
+  app_dir <- system.file("shiny-app-akanksha", package = "eruptR")
   shiny::runApp(app_dir, display.mode = "normal")
 }
