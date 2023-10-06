@@ -39,7 +39,7 @@ devtools::install_github("ETC5523-2023/rpkg-akanksha03042001")
 
 This command is used to load the package library -
 
-```{r, warning=FALSE, message=FALSE}
+```{r}
 library(eruptR)
 ```
 
@@ -69,3 +69,5 @@ volcanic_eruption_counts(2001)
 run_app()
 ```
 
+The link of the package can be found [here](https://github.com/ETC5523-2023/rpkg-akanksha03042001.git). 
+dev

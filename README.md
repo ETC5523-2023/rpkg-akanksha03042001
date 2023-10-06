@@ -38,6 +38,11 @@ This command is used to load the package library -
 
 ``` r
 library(eruptR)
+#> 
+#> Attaching package: 'eruptR'
+#> The following object is masked from 'package:datasets':
+#> 
+#>     volcano
 ```
 
 ## Example
@@ -79,3 +84,6 @@ volcanic_eruption_counts(2001)
 ``` r
 run_app()
 ```
+
+The link of the package can be found
+[here](https://github.com/ETC5523-2023/rpkg-akanksha03042001.git). dev

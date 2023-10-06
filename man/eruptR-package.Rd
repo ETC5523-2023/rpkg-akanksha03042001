@@ -6,7 +6,7 @@
 \alias{eruptR-package}
 \title{eruptR: Exploring Earth’s Fiery Giants}
 \description{
-What the package does (one paragraph).
+The package helps us to analyse and comprehend volcanic explosivity trends for different types of volcanoes worldwide.
 }
 \author{
 \strong{Maintainer}: Akanksha Shridharani \email{ashr0017@student.monash.edu}
