@@ -42,6 +42,6 @@ A data frame with 958 rows and 26 variables.
 volcano
 }
 \description{
-A dataset that contains the the different types of volcanoes worldwide, their elevation to help us knowing whether its a nature's fury or geological wonder
+A dataset that contains the the different types of volcanoes worldwide, giving us an information about their elevation.
 }
 \keyword{datasets}

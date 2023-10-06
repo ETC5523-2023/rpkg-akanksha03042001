@@ -88,7 +88,7 @@
 #' @source \url{https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-05-12/eruptions.csv}
 "explosive_index_data"
 
-#' @title Dataset about volcanic eruptions by their Explosivity Index for recent 20 yeats
+#' @title Dataset about volcanic eruptions by their Explosivity Index for recent 20 years
 #'
 #' @description A dataset that contains the the different types of volcanic eruption according to their eruption, which is used in
 #' a function related to R-shiny to display the Volcanic Explosivity Index and its respective volcano according to year.

@@ -3,7 +3,7 @@
 \docType{data}
 \name{new_data}
 \alias{new_data}
-\title{Dataset about volcanic eruptions by their Explosivity Index for recent 20 yeats}
+\title{Dataset about volcanic eruptions by their Explosivity Index for recent 20 years}
 \format{
 A data frame with 127 rows and 3 variables.
 \describe{

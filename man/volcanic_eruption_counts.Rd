@@ -7,12 +7,12 @@
 volcanic_eruption_counts(year_input)
 }
 \arguments{
-\item{year_input}{The year parameter which is used for plotting}
+\item{year_input}{The year parameter which is used for plotting.}
 }
 \description{
-A parameterised function which takes an input of R-shiny one panel function i.e year
-as an input and it will generate us Volcanic Explosivity Index(VEI) vs Volcano Name.
-It mainly tell us that more VEI means that that the eruption of that volcano is really powerful.
+A parameterised function that takes the year as an input and generates Volcanic Explosivity Index (VEI)
+vs Volcano Name from R-shiny one panel function.
+We can tell from this that a volcano's VEI is higher when the eruption is powerful.
 The data has been selected to show the top 7 highest VEI volcanoes in the last 20 years.
 }
 \examples{
